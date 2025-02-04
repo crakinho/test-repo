@@ -1,2 +1,2 @@
 # test-repo
-test repository to demo use
+used in february of 2025, learnind how to code
